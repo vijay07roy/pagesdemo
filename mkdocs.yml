@@ -1,15 +1,15 @@
 # Project information
 site_name: 'Material for MkDocs'
 site_description: 'A Material Design theme for MkDocs'
-site_author: 'Martin Donath'
-site_url: 'https://squidfunk.github.io/mkdocs-material/'
+site_author: 'Vijay Roy'
+site_url: 'https://vijay07roy.github.io/pagesdemo/'
 
 # Repository
-repo_name: 'squidfunk/mkdocs-material'
-repo_url: 'https://github.com/squidfunk/mkdocs-material'
+repo_name: 'vijay07roy/pagesdemo'
+repo_url: 'https://github.com/vijay07roy/pagesdemo'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
+copyright: 'Copyright &copy; 2018 Vijay Roy'
 
 # Configuration
 theme:
